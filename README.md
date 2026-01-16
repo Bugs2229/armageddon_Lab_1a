@@ -27,12 +27,15 @@ Screenshot of: RDS SG inbound rule using source = sg-ec2-lab EC2 role attached /
 <img width="1269" height="397" alt="image" src="https://github.com/user-attachments/assets/19852db7-620b-4f39-9877-a23cf3c9f194" />
 
 **EC2 TCP port 80 access**
+
 <img width="830" height="116" alt="image" src="https://github.com/user-attachments/assets/f060f590-10a9-42af-a936-3b7151894fdb" />
 
 **EC2 Website note test**
+
 <img width="778" height="118" alt="image" src="https://github.com/user-attachments/assets/455528ea-2236-418e-b443-1628b0d698c8" />
 
 **Database Init test**
+
 <img width="812" height="82" alt="image" src="https://github.com/user-attachments/assets/b6cc7340-5cc3-4b1d-abe5-ef7bbbde28d2" />
 
 **Verify SSH Access to EC2/ secretsmanager**
